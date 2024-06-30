@@ -40,7 +40,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 st.markdown("The project **_CBDA_** developed by Postgraduate student :blue[**_Ioannis Bakomichalis_**] for his MSc Dissertation :blue[**_Cyberbullying Detection through NLP & Machine Learning_**].")
 st.markdown(" <br> ", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
-st.markdown("For any question about the project, please contact <a href=mailto:ioannis.bakomichalis@ssl-unipi.gr>Ioannis Bakomichalis</a> .", unsafe_allow_html=True)
+st.markdown("For any question about the project, please contact <a href=mailto:ioannis.bakomichalis@ssl-unipi.gr>Pravin Bante</a> .", unsafe_allow_html=True)
 st.markdown("<br> <br> <br>", unsafe_allow_html=True)
 col1, col2 = st.columns([2,4])
 with col1:
