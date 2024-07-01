@@ -28,7 +28,7 @@ st.sidebar.image(image , use_column_width=True, output_format='auto')
 st.sidebar.markdown("---")
 
 
-st.sidebar.markdown("<br> <br> <br> <br> <br> <br> <br> <h1 style='text-align: center; font-size: 18px; color: #0080FF;'>© 2023 | Ioannis Bakomichalis</h1>", unsafe_allow_html=True)
+st.sidebar.markdown("<br> <br> <br> <br> <br> <br> <br> <h1 style='text-align: center; font-size: 18px; color: #0080FF;'>© 2023 | Pravin Bante</h1>", unsafe_allow_html=True)
 
 
 
@@ -37,7 +37,7 @@ st.title("About us📍")
 st.markdown("---")
 st.markdown("<br>", unsafe_allow_html=True)
 
-st.markdown("The project **_CBDA_** developed by Postgraduate student :blue[**_Ioannis Bakomichalis_**] for his MSc Dissertation :blue[**_Cyberbullying Detection through NLP & Machine Learning_**].")
+st.markdown("The project **_CBDA_** developed by Postgraduate student :blue[**_Pravin Bante_**] for his M.Tech Dissertation :blue[**_Cyberbullying Detection through NLP & Machine Learning_**].")
 st.markdown(" <br> ", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 st.markdown("For any question about the project, please contact <a href=mailto:ioannis.bakomichalis@ssl-unipi.gr>Pravin Bante</a> .", unsafe_allow_html=True)
