@@ -36,9 +36,7 @@ st.sidebar.markdown("<br> <br> <br> <br> <br> <br> <br> <h1 style='text-align: c
 st.title("About us📍")
 st.markdown("---")
 st.markdown("<br>", unsafe_allow_html=True)
-
 st.markdown("Hey I'am Pravin Bante")  
-st.markdown(" <br> ", unsafe_allow_html=True)
 st.markdown(" <br> ", unsafe_allow_html=True)
 st.markdown(" Thanks For vist website. The Project  **_CyberGuard_** developed for Post-Graduation Dissertation. It focuses on :blue[**_Cyberbullying Detection through NLP & Machine Learning_**]. The aim is to leverage advanced machine Learning techniques to detect and prevent cyberbullying incidents in online communications.")
 st.markdown(" <br> ", unsafe_allow_html=True)
