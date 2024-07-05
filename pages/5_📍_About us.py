@@ -49,5 +49,5 @@ with col1:
     st.image(image, use_column_width=False, output_format='auto')
 with col2:
     st.markdown("<br> ", unsafe_allow_html=True)
-    st.markdown("<h1 style='text-align: center; font-size: 15px; color: #002d51;'>University of Piraeus, Department of Digital Systems</h1>", unsafe_allow_html=True)
-    st.markdown("<h1 style='text-align: center; font-size: 15px; color: #002d51;'>M.Sc. Digital Systems Security</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; font-size: 15px; color: #002d51;'>National Forensic Science University Ghandhinagar, Gujrata</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; font-size: 15px; color: #002d51;'>M,tech in Cyber Security & Digital Forensic</h1>", unsafe_allow_html=True)
