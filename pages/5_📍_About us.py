@@ -45,7 +45,7 @@ st.markdown("For any question about the project, please contact <a href=mailto:p
 st.markdown("<br> <br> <br>", unsafe_allow_html=True)
 col1, col2 = st.columns([2,4])
 with col1:
-    image = Image.open('icons/unipiLogo.png')
+    image = Image.open('icons/nfsulogo.png')
     st.image(image, use_column_width=False, output_format='auto')
 with col2:
     st.markdown("<br> ", unsafe_allow_html=True)
