@@ -10,16 +10,13 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer 
 import time
 
-hide_menu = """
+hide_menu = 
 <style>
-#MainMenu{
-    visibility:hidden;
-}
-footer{
-    visibility:hidden;
+body {
+    background-color: white;
 }
 </style>
-"""
+
 
 showWarningOnDirectExecution = False
 ps = PorterStemmer()
