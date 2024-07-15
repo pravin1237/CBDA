@@ -1,4 +1,4 @@
-# 💻 CBDA
+# CyberGard
 <br>
 
 _**Cyber Bullying Detection Application**_ is a  **Machine Learning Web application** for **cyberbullying detection**.
