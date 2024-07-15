@@ -10,7 +10,6 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer 
 import time
 
-hide_menu = 
 <style>
 body {
     background-color: white;
